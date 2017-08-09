@@ -15,5 +15,7 @@ The event focused on a new IoT platform called Android Things.  This was to inte
 
 As for the talk if interested, the talk was on creating a robo-car.  This leveraged computer vision, a few materials that cost $100, and Android Things.  The links for the presentation are below too, and I found this interesting because of my EE background.  But in regards to data science, the Tensorflow tutorial was a good starting point for me.  They have several other tutorials right now, but I'll refrain from pursuit.  
 
+# Resources
+
 Codelab Link: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0
 Presentation Link: https://docs.google.com/presentation/d/1zNsiDYkhHjifmuTfpYn7btubOczRe38ZZUDjc_O0w4A/edit?usp=sharing
