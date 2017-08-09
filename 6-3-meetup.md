@@ -1,11 +1,11 @@
 # Meetup Experience
 
-Meetup: Google Developer Group (GDG) NYC 
-URL: https://www.meetup.com/gdgnyc/
-Event Name: Android Things & DIY RoboCars
-Event Location: New York, NY
-Event URL: https://www.meetup.com/gdgnyc/events/234963772/?comment_table_id=482666155&comment_table_name=event_comment
-Event Date: August 7, 2017
+* Meetup: Google Developer Group (GDG) NYC 
+* URL: https://www.meetup.com/gdgnyc/
+* Event Name: Android Things & DIY RoboCars
+* Event Location: New York, NY
+* Event URL: https://www.meetup.com/gdgnyc/events/234963772/?comment_table_id=482666155&comment_table_name=event_comment
+* Event Date: August 7, 2017
 
 # Brief Discussion
 
@@ -17,5 +17,5 @@ As for the talk if interested, the talk was on creating a robo-car.  This levera
 
 # Resources
 
-Codelab Link: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0
-Presentation Link: https://docs.google.com/presentation/d/1zNsiDYkhHjifmuTfpYn7btubOczRe38ZZUDjc_O0w4A/edit?usp=sharing
+* Codelab Link: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0
+* Presentation Link: https://docs.google.com/presentation/d/1zNsiDYkhHjifmuTfpYn7btubOczRe38ZZUDjc_O0w4A/edit?usp=sharing
